@@ -1,0 +1,13 @@
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.Properties.Resources.resources
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.csproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\bin\Debug\acceso_hardware_SO.exe.config
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\bin\Debug\acceso_hardware_SO.exe
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\bin\Debug\acceso_hardware_SO.pdb
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.Form1.resources
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_h.661A5FC1.Up2Date
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.exe
+C:\Users\Usuario1\Desktop\acceso_hardware_SO\obj\Debug\acceso_hardware_SO.pdb

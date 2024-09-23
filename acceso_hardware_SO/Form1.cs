@@ -4,6 +4,11 @@ using System.IO;
 using System.Net.NetworkInformation;
 using System.Windows.Forms;
 using System.Management;
+/*
+ *Julian Manrique Cuervo
+ *23/09/2024
+ *Herramientas De Programacion_II
+ */
 
 namespace acceso_hardware_SO
 {
